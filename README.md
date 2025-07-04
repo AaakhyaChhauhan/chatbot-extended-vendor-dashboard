@@ -22,3 +22,13 @@ This chatbot allows vendors to check their invoice details through a Dialogflow-
 
 ## 🧪 Testing
 Try typing in Dialogflow:
+
+# 💬 Vendor Invoice Chatbot
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![PHP](https://img.shields.io/badge/built%20with-PHP-blue)
+![MySQL](https://img.shields.io/badge/database-MySQL-blue)
+![Dialogflow](https://img.shields.io/badge/NLP-Dialogflow-orange)
+![Hosted on Replit](https://img.shields.io/badge/hosted%20on-Replit-purple)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+
