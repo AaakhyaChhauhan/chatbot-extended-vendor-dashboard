@@ -29,7 +29,5 @@ This chatbot allows vendors to check their invoice details through a Dialogflow-
 - `db.php` — Database connection file (use dummy creds if public)
 - `index.php` — Optional homepage for Replit
 
-## 🧪 Testing
-Try typing in Dialogflow:
 
 
