@@ -28,6 +28,8 @@ This chatbot allows vendors to check their invoice details through a Dialogflow-
 - `dialogflow_webhook.php` — Receives request from Dialogflow, returns invoice info
 - `db.php` — Database connection file (use dummy creds if public)
 - `index.php` — Optional homepage for Replit
+
+  
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 
