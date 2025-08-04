@@ -1,4 +1,4 @@
-# chatbot-extended-vendor-dashboard
+
 # 💬 Vendor Invoice Chatbot
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
